@@ -1,7 +1,7 @@
 Speakability
 ============
 
-[Website] (http://speakability.co) | [GitHub] (http://github.com/appey) | [Twitter] (http://twitter.com/speakability1) | [Cloud Team] (http://appey.co)
+[Website] (http://speakability.andrewraynes.com) | [GitHub] (http://github.com/raynesandrew) | [Twitter] (http://twitter.com/speakability1)
 
 ***Details;***
 ====================================
