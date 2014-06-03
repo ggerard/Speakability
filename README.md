@@ -11,8 +11,8 @@ Speakability
 
 ***Change Log;***
 ====================================
-* All Speakability versions are documented within the [change log] (https://github.com/Cloud-Team/Speakability/blob/master/Changelog.markdown)
+* All Speakability versions developed by me (before the sale) are documented within the [change log] (https://github.com/raynesandrew/Speakability/blob/master/Changelog.markdown)
 
 ***Press***
 ====================================
-For press inquiries, please contact mail@speakability.co or you can download our press kit.
+Please contact [Winning Education] (https://winningeducation.com) the owners of the application.
