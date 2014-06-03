@@ -3,6 +3,8 @@ Speakability
 
 [Website] (http://speakability.andrewraynes.com) | [GitHub] (http://github.com/raynesandrew) | [Twitter] (http://twitter.com/speakability1)
 
+Speakability was an iOS application I developed for my final year project in university. The application was shortlisted at the [Big Chip Awards 2014] (https://winningeducation.com) and most recently I sold the application to a leading university education agency in London - [Winning Education] (https://winningeducation.com). I am sad to see the application go, but its gone to a great home and I am now developing more apps including; Gradey and Domainey.
+
 ***Details;***
 ====================================
 * Current Version: 2.0.1
@@ -11,7 +13,7 @@ Speakability
 
 ***Change Log;***
 ====================================
-* All Speakability versions developed by me (before the sale) are documented within the [change log] (https://github.com/raynesandrew/Speakability/blob/master/Changelog.markdown)
+* All Speakability versions developed by me (before the sale) are documented within the [change log] (https://github.com/raynesandrew/Speakability/blob/master/Changelog.markdown).
 
 ***Press***
 ====================================
