@@ -22,7 +22,7 @@ The changelog details the features and graphics implemented within each Speakabi
 ***Speakability App Icon;***
 * White App Icon with the red Speakability logo centered within (below).
 
-![](https://raw.github.com/Cloud-Team/Speakability/master/Changelog_Screenshots/Icon_1.PNG)
+![](https://raw.github.com/raynesandrew/Speakability/master/Changelog_Screenshots/Icon_1.PNG)
 
 
 
@@ -32,7 +32,7 @@ The changelog details the features and graphics implemented within each Speakabi
 * 11 quick access picture talk icons (AAC)
 * Text field functionality; (1) Tap once = cusour appears (2) Tap twice = text highlights (3) Tap three times = text cleared
 
-![](https://raw.github.com/Cloud-Team/Speakability/master/Changelog_Screenshots/Type To Talk_1.PNG)
+![](https://raw.github.com/raynesandrew/Speakability/master/Changelog_Screenshots/Type To Talk_1.PNG)
 
 
 
@@ -41,7 +41,7 @@ The changelog details the features and graphics implemented within each Speakabi
 * 13 categories of icons
 * 148 icons 
 
-![](https://raw.github.com/Cloud-Team/Speakability/master/Changelog_Screenshots/Picture Talk_1.PNG)  ![](https://raw.github.com/Cloud-Team/Speakability/master/Changelog_Screenshots/Picture Talk_2.PNG)
+![](https://raw.github.com/raynesandrew/Speakability/master/Changelog_Screenshots/Picture Talk_1.PNG)  ![](https://raw.github.com/raynesandrew/Speakability/master/Changelog_Screenshots/Picture Talk_2.PNG)
 
 
 
@@ -49,7 +49,7 @@ The changelog details the features and graphics implemented within each Speakabi
 * 9 Speech Therapy face muscle exercises
 * Created using over 1500 keyframes 
 
-![](https://raw.github.com/Cloud-Team/Speakability/master/Changelog_Screenshots/Mirror Talk_1.PNG)
+![](https://raw.github.com/raynesandrew/Speakability/master/Changelog_Screenshots/Mirror Talk_1.PNG)
 
 ***Other Features;***
 * Loading screen on application launch
