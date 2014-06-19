@@ -1,0 +1,199 @@
+A quick insight into my thoughts proccess and initial research completed for my final year project 'Speakability'.
+Follow project.speakability.co for ongoing project updates including blog posts, videos and other exclusive updates./* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline; }
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+body {
+  line-height: 1; }
+
+ol, ul {
+  list-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+.grater-container {
+  width: 640px;
+  margin: 0 auto; }
+  @media all and (max-width: 660px) {
+    .grater-container {
+      width: 300px; } }
+
+.grater {
+  zoom: 1; }
+  .grater > div {
+    width: 300px;
+    margin: 0 0 2em; }
+    .grater > div:first-child {
+      float: left; }
+    .grater > div:last-child {
+      float: right; }
+  .grater.reverse > div:first-child {
+    float: right; }
+  .grater.reverse > div:last-child {
+    float: left; }
+  .grater:before, .grater:after {
+    content: "";
+    display: table; }
+  .grater:after {
+    clear: both; }
+  @media all and (max-width: 660px) {
+    .grater {
+      margin-bottom: 1em; }
+      .grater > div {
+        float: none !important;
+        margin: 0 auto 2em; } }
+
+html {
+  -webkit-font-smoothing: antialiased; }
+
+body {
+  background: #fff;
+  font-size: 18px;
+  font-family: 'Avenir Next', 'helvetica', 'sans-serif';
+  font-weight: 200;
+  padding: 4em 0 2em;
+  line-height: 1.4em; }
+
+a {
+  color: #BA003D;
+  text-decoration: none;
+  border-bottom: 1px solid transparent; }
+  a:hover {
+    border-bottom: 1px solid; }
+
+strong {
+  font-weight: 700; }
+
+mark {
+  background: #fffeca; }
+
+h1 {
+  color: #BA003D;
+  font-size: 50px;
+  font-weight: 100;
+  text-align: center;
+  margin-bottom: 1em; }
+
+h3 {
+  font-weight: 200;
+  font-size: 1.1em;
+  margin-bottom: 0.25em; }
+
+header {
+  font-size: 1.2em;
+  line-height: 1.6em;
+  color: #888; }
+
+.wide-container {
+  max-width: 740px;
+  min-width: 280px;
+  margin: 0 auto 4em;
+  padding: 0 10px; }
+
+.container {
+  max-width: 660px;
+  min-width: 280px;
+  margin: 0 auto 3em;
+  padding: 0 10px; }
+
+p, ul#videos {
+  margin-bottom: 2em; }
+
+div#videos {
+  max-width: 880px;
+  min-width: 280px;
+  padding: 0 10px; }
+  div#videos ul {
+    *zoom: 1;
+    line-height: 0;
+    width: 100%;
+    margin-bottom: 0.5em; }
+    div#videos ul:before, div#videos ul:after {
+      content: " ";
+      display: table; }
+    div#videos ul:after {
+      clear: both; }
+  div#videos li {
+    float: left;
+    width: 33%;
+    overflow: hidden; }
+    @media all and (max-width: 660px) {
+      div#videos li {
+        width: 100%;
+        margin-bottom: 1em; }
+        div#videos li:last-child {
+          margin-bottom: 0; } }
+    div#videos li a {
+      display: block;
+      font-size: 0.9em; }
+
+footer {
+  text-align: center;
+  color: #999;
+  font-size: 0.9em; }
+  footer a {
+    color: #999; }
+  footer a:hover {
+    color: #BA003D; }
+
+article {
+  margin-bottom: 0.5em; }
+  article p {
+    display: inline;
+    padding-right: 0.25em; }
+
+div.video {
+  position: relative; }
+  div.video img {
+    display: block;
+    width: 100%;
+    height: auto;
+    visibility: hidden; }
+  div.video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; }
+
+a.sig:hover {
+  border-color: transparent; }
+
+a.more {
+  color: #537EF5;
+  font-size: 0.9em; }

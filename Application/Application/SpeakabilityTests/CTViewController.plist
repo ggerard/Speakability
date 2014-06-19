@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>13</key>
+	<string>I talk with Speakability</string>
+	<key>14</key>
+	<string>Hello</string>
+	<key>15</key>
+	<string>Thank you</string>
+	<key>16</key>
+	<string>Please</string>
+	<key>17</key>
+	<string>Sorry</string>
+	<key>18</key>
+	<string>Like it</string>
+	<key>19</key>
+	<string>Dislike it</string>
+	<key>20</key>
+	<string>Help</string>
+</dict>
+</plist>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<string>Happy</string>
+	<key>2</key>
+	<string>Okay</string>
+	<key>3</key>
+	<string>Sad</string>
+	<key>4</key>
+	<string>Angry</string>
+	<key>5</key>
+	<string>Excited</string>
+	<key>6</key>
+	<string>Hungry</string>
+	<key>7</key>
+	<string>Confused</string>
+	<key>8</key>
+	<string>Tired</string>
+	<key>9</key>
+	<string>Unwell</string>
+	<key>10</key>
+	<string>Cold</string>
+	<key>11</key>
+	<string>Hot</string>
+	<key>12</key>
+	<string>Bored</string>
+	<key>21</key>
+	<string>Sun</string>
+	<key>22</key>
+	<string>Rain</string>
+	<key>23</key>
+	<string>Wind</string>
+	<key>24</key>
+	<string>Snow</string>
+	<key>25</key>
+	<string>Lightning</string>
+	<key>26</key>
+	<string>Facebook</string>
+	<key>27</key>
+	<string>Twitter</string>
+	<key>28</key>
+	<string>Google Plus</string>
+	<key>29</key>
+	<string>Spring</string>
+	<key>30</key>
+	<string>Summer</string>
+	<key>31</key>
+	<string>Autumn</string>
+	<key>32</key>
+	<string>Winter</string>
+	<key>33</key>
+	<string>Music</string>
+	<key>34</key>
+	<string>Mobile</string>
+	<key>35</key>
+	<string>Land line phone</string>
+	<key>36</key>
+	<string>Games console</string>
+	<key>37</key>
+	<string>Computer</string>
+	<key>38</key>
+	<string>Printer</string>
+	<key>39</key>
+	<string>Thank you</string>
+	<key>40</key>
+	<string>Please?</string>
+	<key>41</key>
+	<string>I can&apos;t speak</string>
+	<key>42</key>
+	<string>Help!</string>
+	<key>43</key>
+	<string>I&apos;m hungry</string>
+	<key>44</key>
+	<string>I like it</string>
+	<key>45</key>
+	<string>I dislike it</string>
+	<key>46</key>
+	<string>I love it</string>
+	<key>47</key>
+	<string>I love you</string>
+	<key>48</key>
+	<string>Camera</string>
+	<key>49</key>
+	<string>What time is it?</string>
+	<key>50</key>
+	<string>How much is it?</string>
+	<key>51</key>
+	<string>Shopping</string>
+	<key>52</key>
+	<string>Nature</string>
+	<key>53</key>
+	<string>Animal</string>
+	<key>54</key>
+	<string>Man</string>
+	<key>55</key>
+	<string>Woman</string>
+	<key>56</key>
+	<string>Archery</string>
+	<key>57</key>
+	<string>Athletics</string>
+	<key>58</key>
+	<string>Badminton</string>
+	<key>59</key>
+	<string>Basketball</string>
+	<key>60</key>
+	<string>Boxing</string>
+	<key>61</key>
+	<string>Climbing</string>
+	<key>62</key>
+	<string>Dance</string>
+	<key>63</key>
+	<string>Football</string>
+	<key>64</key>
+	<string>Golf</string>
+	<key>65</key>
+	<string>Gymnastics</string>
+	<key>66</key>
+	<string>Hockey</string>
+	<key>67</key>
+	<string>Horse Riding</string>
+	<key>68</key>
+	<string>Netball</string>
+	<key>69</key>
+	<string>Rugby</string>
+	<key>70</key>
+	<string>Squash</string>
+	<key>71</key>
+	<string>Swimming</string>
+	<key>72</key>
+	<string>Table Tennis</string>
+	<key>73</key>
+	<string>Tennis</string>
+	<key>74</key>
+	<string>Volley Ball</string>
+	<key>75</key>
+	<string>Weightlifting</string>
+	<key>76</key>
+	<string>Apple</string>
+	<key>77</key>
+	<string>Banana</string>
+	<key>78</key>
+	<string>Grapes</string>
+	<key>79</key>
+	<string>Pear</string>
+	<key>80</key>
+	<string>Orange</string>
+	<key>81</key>
+	<string>Strawberry</string>
+	<key>82</key>
+	<string>Cherry</string>
+	<key>83</key>
+	<string>Pineapple</string>
+	<key>84</key>
+	<string>Watermelon</string>
+	<key>85</key>
+	<string>Raspberry</string>
+	<key>13</key>
+	<string>I speak with Speakability</string>
+	<key>14</key>
+	<string>Hello</string>
+	<key>15</key>
+	<string>Thank you</string>
+	<key>16</key>
+	<string>Please</string>
+	<key>17</key>
+	<string>Sorry</string>
+	<key>18</key>
+	<string>I like it</string>
+	<key>19</key>
+	<string>I dislike it</string>
+	<key>20</key>
+	<string>Help!</string>
+	<key>86</key>
+	<string>Goodbye</string>
+	<key>87</key>
+	<string>Yes</string>
+	<key>88</key>
+	<string>No</string>
+	<key>89</key>
+	<string>Mango</string>
+	<key>90</key>
+	<string>Grapefruit</string>
+	<key>91</key>
+	<string>Circle</string>
+	<key>92</key>
+	<string>Oval</string>
+	<key>93</key>
+	<string>Triangle</string>
+	<key>94</key>
+	<string>Square</string>
+	<key>95</key>
+	<string>Rectangle</string>
+	<key>96</key>
+	<string>Pentagon</string>
+	<key>97</key>
+	<string>Hexagon</string>
+	<key>98</key>
+	<string>Septagon</string>
+	<key>99</key>
+	<string>Octagon</string>
+	<key>100</key>
+	<string>Nonagon</string>
+	<key>101</key>
+	<string>Decagon</string>
+	<key>102</key>
+	<string>Hendecagon</string>
+	<key>103</key>
+	<string>Dodecagon</string>
+	<key>104</key>
+	<string>Star</string>
+	<key>105</key>
+	<string>Arrow</string>
+	<key>106</key>
+	<string>Glasses</string>
+	<key>107</key>
+	<string>Sun Glasses</string>
+	<key>108</key>
+	<string>Wool Hat</string>
+	<key>109</key>
+	<string>Baseball Cap</string>
+	<key>110</key>
+	<string>T-Shirt</string>
+	<key>111</key>
+	<string>Long Sleeved T-Shirt</string>
+	<key>112</key>
+	<string>Polo Shirt</string>
+	<key>113</key>
+	<string>Long Sleeved Polo Shirt</string>
+	<key>114</key>
+	<string>Shirt</string>
+	<key>115</key>
+	<string>Pants</string>
+	<key>116</key>
+	<string>Shorts</string>
+	<key>117</key>
+	<string>Bow Tie</string>
+	<key>118</key>
+	<string>Tie</string>
+	<key>119</key>
+	<string>Coat</string>
+	<key>120</key>
+	<string>Cardigan</string>
+	<key>121</key>
+	<string>Blazer</string>
+	<key>122</key>
+	<string>Dress</string>
+	<key>123</key>
+	<string>Socks</string>
+	<key>124</key>
+	<string>Underwear</string>
+	<key>125</key>
+	<string>Bra</string>
+	<key>126</key>
+	<string>Division</string>
+	<key>127</key>
+	<string>English</string>
+	<key>128</key>
+	<string>Equals</string>
+	<key>129</key>
+	<string>IT</string>
+	<key>130</key>
+	<string>Maths</string>
+	<key>131</key>
+	<string>Multiply</string>
+	<key>132</key>
+	<string>Notebook</string>
+	<key>133</key>
+	<string>Pen</string>
+	<key>134</key>
+	<string>Pencil</string>
+	<key>135</key>
+	<string>Plus</string>
+	<key>136</key>
+	<string>Rubber</string>
+	<key>137</key>
+	<string>Ruler</string>
+	<key>138</key>
+	<string>Science</string>
+	<key>139</key>
+	<string>Subtraction</string>
+	<key>140</key>
+	<string>Calculator</string>
+	<key>141</key>
+	<string>LinkedIn</string>
+	<key>142</key>
+	<string>Pinterest</string>
+	<key>143</key>
+	<string>University</string>
+	<key>144</key>
+	<string>Book</string>
+	<key>145</key>
+	<string>Fork</string>
+	<key>146</key>
+	<string>Knife</string>
+	<key>147</key>
+	<string>Spoon</string>
+	<key>148</key>
+	<string>Breakfast</string>
+	<key>149</key>
+	<string>Lunch</string>
+	<key>150</key>
+	<string>Dinner</string>
+	<key>151</key>
+	<string>Plate</string>
+	<key>152</key>
+	<string>Side Plate</string>
+	<key>153</key>
+	<string>Bowl</string>
+	<key>154</key>
+	<string>Cup</string>
+	<key>155</key>
+	<string>Glass</string>
+	<key>156</key>
+	<string>Wine Glass</string>
+</dict>
+</plist>

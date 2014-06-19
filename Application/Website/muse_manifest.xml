@@ -1,0 +1,54 @@
+<manifest alg="2" build="232" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="430407789"/>
+    <file name="master_a-master.css" crc="423697301" ref="index"/>
+    <file name="index.css" crc="113735724" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="phone>index:index"/>
+    <file name="museutils.js" crc="3880880085" ref="phone>index:index"/>
+    <file name="jquery.tobrowserwidth.js" crc="152985095" ref="phone>index:index"/>
+    <file name="pie.js" crc="4147615982" ref="phone>index:index"/>
+    <file name="webpro.js" crc="33264525" ref="phone>index:index"/>
+    <file name="form_check.php" crc="4233309083" ref="phone>index:index"/>
+    <file name="form_throttle.php" crc="520852640" ref="phone>index:index"/>
+    <file name="form-u2148.php" crc="3844986516" ref="phone>index"/>
+    <file name="musewpslideshow.js" crc="272207905" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="466079611" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="261777990" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="phone>index:index"/>
+    <file name="museredirect.js" crc="299715755" ref="index"/>
+    <file name="form-u1980.php" crc="416552147" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="top-bar-logo.png" crc="221405671" ref="phone>index:index"/>
+    <file name="title-text.png" crc="476579956" ref="phone>index:index"/>
+    <file name="iphone-white.png" crc="4266618903" ref="phone>index:index"/>
+    <file name="phone-images-mobile.png" crc="134494344" ref="phone>index"/>
+    <file name="help-support-text.png" crc="3960526285" ref="phone>index:index"/>
+    <file name="u2168-17.png" crc="503777153" ref="phone>index"/>
+    <file name="u2168-17-r.png" crc="4136239241" ref="phone>index"/>
+    <file name="u2168-17-m.png" crc="368750584" ref="phone>index"/>
+    <file name="u2168-17-fs.png" crc="219613914" ref="phone>index"/>
+    <file name="u2147-4.png" crc="4023349524" ref="phone>index"/>
+    <file name="download-app-text.png" crc="4136980504" ref="phone>index:index"/>
+    <file name="cloudteam-text.png" crc="4220520876" ref="phone>index:index"/>
+    <file name="phone-images.png" crc="4212140487" ref="index"/>
+    <file name="follow-text.png" crc="4254269973" ref="index"/>
+    <file name="download-icon.png" crc="3783966880" ref="index"/>
+    <file name="u2007-4.png" crc="250843228" ref="index"/>
+    <file name="u1981-17.png" crc="4100620743" ref="index"/>
+    <file name="u1981-17-r.png" crc="209433475" ref="index"/>
+    <file name="u1981-17-m.png" crc="63887741" ref="index"/>
+    <file name="u1981-17-fs.png" crc="193183188" ref="index"/>
+    <file name="follow-footer-text.png" crc="25938818" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="377270172" ref="phone>index"/>
+      <file name="index.css" crc="3764939412" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4061404137" mt="1394759454961" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="85820425" mt="1394755861393" redirect="true"/>
+</manifest>
