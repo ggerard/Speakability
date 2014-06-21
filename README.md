@@ -5,7 +5,7 @@ Speakability
 
 Speakability was an iOS application I developed for my final year project in university. The application was shortlisted at the [Big Chip Awards 2014] (http://www.bigchipawards.com/Shortlist2014) and most recently I sold the application to a leading university education agency in London - [Winning Education] (https://winningeducation.com). I am sad to see the application go, but its gone to a great home and I am now developing more apps including; Gradey and Domainey.
 
-You can watch some videos and read some stuff on the build [here] (http://project-speakability.andrewraynes.com).
+You can watch some [videos] (http://project-speakability.andrewraynes.com) and [read] (http://www.tumblr.com/blog/speakability) some stuff on the build [here] (http://project-speakability.andrewraynes.com).
 
 ***Details;***
 ====================================
